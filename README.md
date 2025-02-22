@@ -11,5 +11,4 @@ This project is designed to showcase skills in:<br>
 4. Working with various datasets for insights<br>
 
 To run this project:<br>
-git clone https://github.com/Emptyharsha/Pizza-Sales-Analysis-/edit/main/README.md
-```<br>
+git clone : https://github.com/Emptyharsha/Pizza-Sales-Analysis-.git
